@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>meta-it-desafio-api</name>
+    </assembly>
+    <members>
+        <member name="M:meta_it_desafio_api.Controllers.InsightsController.GetInsight">
+            <summary>
+            Busca insight.
+            </summary>
+            <returns>Retona todos os Insights criados.</returns>
+        </member>
+        <member name="M:meta_it_desafio_api.Controllers.InsightsController.GetInsight(System.Int32)">
+            <summary>
+            Busca insight por id.
+            </summary>
+            <param name="id">identificador insight</param>
+            <returns>Apenas o insight referente ao id informado</returns>
+        </member>
+        <member name="M:meta_it_desafio_api.Controllers.InsightsController.PutInsight(System.Int32,meta_it_desafio_api.Model.Insight)">
+            <summary>
+            Edita um insight através id.
+            </summary>
+            <param name="id">identificador insight</param>
+        </member>
+        <member name="M:meta_it_desafio_api.Controllers.InsightsController.PostInsight(meta_it_desafio_api.Model.Insight)">
+            <summary>
+            Cria um insight.
+            </summary>
+            <returns>Retona o insight criado com o id gerado pelo banco de dados</returns>
+        </member>
+        <member name="M:meta_it_desafio_api.Controllers.InsightsController.DeleteInsight(System.Int32)">
+            <summary>
+            Deleta um insight.
+            </summary>
+            <param name="id">identificador insight</param>
+        </member>
+    </members>
+</doc>

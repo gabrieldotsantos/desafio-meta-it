@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "meta-it-desafio-api", "meta-it-desafio-api\meta-it-desafio-api.csproj", "{D4A4DBAF-90C8-457E-81B7-98DC8C0C9FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meta-it-desafio-test", "meta-it-desafio-test\meta-it-desafio-test.csproj", "{32E9277A-5CFF-457B-B817-934E274820BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A4DBAF-90C8-457E-81B7-98DC8C0C9FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A4DBAF-90C8-457E-81B7-98DC8C0C9FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A4DBAF-90C8-457E-81B7-98DC8C0C9FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A4DBAF-90C8-457E-81B7-98DC8C0C9FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E9277A-5CFF-457B-B817-934E274820BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E9277A-5CFF-457B-B817-934E274820BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E9277A-5CFF-457B-B817-934E274820BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E9277A-5CFF-457B-B817-934E274820BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001A767C-3402-4399-B4AF-DEB1B6F16A2F}
+	EndGlobalSection
+EndGlobal

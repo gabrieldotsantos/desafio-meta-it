@@ -1,0 +1,35 @@
+{
+  "name": "nextjs-ssr-with-styled-components-typescript",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next build && next start",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mui/material": "^5.2.6",
+    "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest",
+    "@mui/styled-engine-sc": "latest",
+    "axios": "^0.27.2",
+    "next": "latest",
+    "next-transpile-modules": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^4.4.0",
+    "react-is": "latest",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/styled-components": "latest",
+    "babel-plugin-styled-components": "latest",
+    "typescript": "latest"
+  },
+  "resolutions": {
+    "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest"
+  },
+  "keywords": [],
+  "description": "example for nextjs ssr with styled-components and typescript\n\n"
+}

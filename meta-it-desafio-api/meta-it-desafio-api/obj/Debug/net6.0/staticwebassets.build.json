@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CsZF5oSPPvJ6jT8sKm8fmjIUAp4RffQTw+zw0tGNEkU=",
+  "Source": "meta-it-desafio-api",
+  "BasePath": "_content/meta-it-desafio-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
